@@ -1,0 +1,10 @@
+gymnasium==0.29.1
+jax
+flax
+optax
+ale_py<=0.9
+pytest
+stable-baselines3
+rich
+torch
+cleanrl
