@@ -15,9 +15,9 @@ Temporal Reward Decomposition explicitly predicts the agent's next `N` expected 
 
 These figures can be more interesting when the agent's expected rewards over an episode is plotted
 
-![Future rewards for an Atari Space Invaders episode](figs/SpaceInvaders-expected-reward.mp4)
+https://github.com/user-attachments/assets/6aec532a-8e8f-471b-b7e2-f822e0c7b7fe
 
-![Future rewards for an Atari Breakout episode](figs/Breakout-expected-reward.mp4)
+https://github.com/user-attachments/assets/ebe08945-9713-4e50-978b-ddabe7384a23
 
 ### What observation features influence future rewards?
 
