@@ -2,7 +2,7 @@
 
 Future reward estimation is a core component of reinforcement learning agents, i.e., Q-value and state-value functions, predicting an agent’s sum of future rewards. However, their scalar output prevents understanding when or what individual future rewards an agent expects to receive. We address this by modifying an agent’s future reward estimator to predict their next N expected re wards, referred to as Temporal Reward Decomposition (TRD). This unlocks novel explanations of agent behaviour including when and what quantity rewards the agent expects to receive and their confidence in that, measuring an input feature’s temporal importance on decision-making, and understanding the impact of different actions using their differences in future rewards. Furthermore, we show that DQN agents trained on Atari environments can be efficiently retrained to incorporate TRD with minimal impact on performance.
 
-Add link to ECAI proceedings
+For the full paper - https://arxiv.org/abs/2408.08230
 
 ## Example explanations
 Temporal Reward Decomposition explicitly predicts the agent's next `N` expected rewards providing novel explanatory opportunities. We highlight the three shown in the paper
